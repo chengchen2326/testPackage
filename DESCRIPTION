@@ -1,9 +1,9 @@
 Package: testPackage
-Title: What the Package Does (One Line, Title Case)
+Title: A Custom ggplot2 Theme Package
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("YourFirstName", "YourLastName", email = "your.email@example.com", role = c("aut", "cre"))
+Description: This package provides a custom ggplot2 theme function, modifying elements such as grid lines, text alignment, and background color.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
